@@ -1,0 +1,13 @@
+{
+    "name": "TitamProject",
+    "description": "",
+    "authors": [
+        {
+            "name": "Tarso Silva",
+            "email": "tarsovirgilioc@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.1"
+    }
+}
